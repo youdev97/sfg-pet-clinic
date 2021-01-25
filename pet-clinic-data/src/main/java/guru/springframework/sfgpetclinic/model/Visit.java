@@ -27,6 +27,4 @@ public class Visit extends BaseEntity{
 		this.pet = pet;
 	}
 	
-	
-
 }
