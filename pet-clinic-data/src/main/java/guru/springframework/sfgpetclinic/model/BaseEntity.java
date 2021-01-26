@@ -7,7 +7,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.MappedSuperclass;
 
-@MappedSuperclass
+@MappedSuperclass //means doesn't create a table in the database for BaseEntity just herit
 public class BaseEntity implements Serializable {
 
 	@Id
