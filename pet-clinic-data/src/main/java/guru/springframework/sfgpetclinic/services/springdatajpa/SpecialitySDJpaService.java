@@ -8,11 +8,11 @@ import org.springframework.stereotype.Service;
 
 import guru.springframework.sfgpetclinic.model.Speciality;
 import guru.springframework.sfgpetclinic.repositories.SpecialtyRepository;
-import guru.springframework.sfgpetclinic.services.SpecialityService;
+import guru.springframework.sfgpetclinic.services.SpecialtyService;
 
 @Service
 @Profile("springdatajpa")
-public class SpecialitySDJpaService implements SpecialityService {
+public class SpecialitySDJpaService implements SpecialtyService {
 
 	
 	private final SpecialtyRepository specialtyRepository;
