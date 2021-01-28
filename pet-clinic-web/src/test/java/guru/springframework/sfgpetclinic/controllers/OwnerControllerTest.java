@@ -30,7 +30,7 @@ class OwnerControllerTest {
 	@Mock
 	OwnerService ownerService;
 	
-	@InjectMocks
+	@InjectMocks // set up a controller with the mock injected in to t
 	OwnerController controller;
 	
 	Set<Owner> owners;
