@@ -16,6 +16,7 @@ Those points were implemented
 * JPA Data Modeling, Entity, Relationships
 * Lombok
 * Tests Junit, Mock, CI (CircleCI integration)
+* CRUD Operations with Spring MVC
 
 This repo is an opinionated version of the classic reference application - [Spring Pet Clinic](https://github.com/spring-projects/spring-petclinic)
 
