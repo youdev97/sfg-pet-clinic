@@ -5,6 +5,8 @@
 
 This repo is a project that I built following one of the most popular course about Spring called [Spring Framework 5: Beginner to Guru](https://www.udemy.com/spring-framework-5-beginner-to-guru/?couponCode=GITHUB_SFGPETCLINIC).
 
+It's simulating a petclinic website where we can manage veterinarians, pets, owners, and appointements.
+
 Those points were viewed and implemented
 
 * Spring initializer
