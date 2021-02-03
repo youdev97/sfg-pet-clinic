@@ -5,7 +5,7 @@
 
 This repo is a project that I built following one of the most popular course about Spring called [Spring Framework 5: Beginner to Guru](https://www.udemy.com/spring-framework-5-beginner-to-guru/?couponCode=GITHUB_SFGPETCLINIC).
 
-Those points were implemented
+Those points were viewed and implemented
 
 * Spring initializer
 * H2 Database
@@ -17,6 +17,7 @@ Those points were implemented
 * Lombok
 * Tests Junit, Mock, CI (CircleCI integration)
 * CRUD Operations with Spring MVC
+* Validation and Constraints with Spring MVC
 
 This repo is an opinionated version of the classic reference application - [Spring Pet Clinic](https://github.com/spring-projects/spring-petclinic)
 
