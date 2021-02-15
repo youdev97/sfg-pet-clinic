@@ -7,7 +7,7 @@ This repo is a project that I built following one of the most popular course abo
 
 It's simulating a petclinic website where we can manage veterinarians, pets, owners, and appointements.
 
-Those points were viewed and implemented
+Those points were viewed and implemented:
 
 * Spring initializer
 * H2 Database
@@ -20,6 +20,11 @@ Those points were viewed and implemented
 * Tests Junit, Mock, CI (CircleCI integration)
 * CRUD Operations with Spring MVC
 * Validation and Constraints with Spring MVC
+* Working with Containers and Images (Docker)
+* Connecting to MySQL or MongoDB
+* Reactive Programming
+* RestFul WebService with Spring MVC
+* Swagger
 
 This repo is an opinionated version of the classic reference application - [Spring Pet Clinic](https://github.com/spring-projects/spring-petclinic)
 
